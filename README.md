@@ -11,4 +11,4 @@ $~ go test ./...
 
 __Expected Result__
 
-![image](https://user-images.githubusercontent.com/17556614/90689399-664afd00-e246-11ea-8fc1-e3d9697db78e.png)
+![image](https://user-images.githubusercontent.com/17556614/90690110-83340000-e247-11ea-98a0-ce98f2ca9693.png)
